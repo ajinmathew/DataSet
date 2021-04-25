@@ -1,0 +1,15 @@
+Tuple,Age,Salary,Job,Performance,Select
+1,Y,H,P,A,N
+2,Y,H,P,E,N
+3,M,H,P,A,Y
+4,O,M,P,A,Y
+5,O,L,G,A,Y
+6,O,L,G,E,N
+7,M,L,G,E,Y
+8,Y,M,P,A,N
+9,Y,L,G,A,Y
+10,O,M,G,A,Y
+11,Y,M,G,E,Y
+12,M,M,P,E,Y
+13,M,H,G,A,Y
+14,O,M,P,E,N
